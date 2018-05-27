@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<categories>
+  <category name="care" defaultLocation="counter" room="bathroom">
+    <object name="shampoo"  difficulty="easy"     />
+    <object name="soap"        difficulty="moderate" />
+    <object name="tooth paste" difficulty="easy"     />
+  </category>
+
+  <category name="cleaning stuff" defaultLocation="counter" room="bathroom">
+    <object name="sponge"      difficulty="moderate" />
+    <object name="towel"       difficulty="high"     />
+  </category>
+
+  <category name="container" defaultLocation="table" room="kitchen">
+    <object name="tray"        difficulty="high"     type="special" canPlaceOn="true" twoHands="true" />
+    <object name="box"         difficulty="high"     type="special" canPlaceIn="true" twoHands="true" />
+  </category>
+
+  <category name="drinks" defaultLocation="table" room="kitchen">
+    <object name="juice"       difficulty="easy"    canPour="true" />
+    <object name="mountain dew"        difficulty="easy"      canPour="true" />
+    <object name="coke"        difficulty="easy"      canPour="true"/>
+    <object name="milk"    difficulty="easy"      canPour="true" />
+  </category>
+
+  <category name="drinks" defaultLocation="desk" room="kitchen">
+    <object name="water"        difficulty="easy"      canPour="true" />
+  </category>
+
+  <category name="drinks" defaultLocation="living table" room="living room">
+    <object name="coffee"      difficulty="easy" />
+    <object name="mcdonald cup"  difficulty="moderate"  />
+  </category>
+
+  <category name="snacks" defaultLocation="desk" room="kitchen">
+    <object name="pringles"     difficulty="moderate"  />
+    <object name="cookies"       difficulty="easy"      />
+    <object name="kinder"      difficulty="moderate"  />
+  </category>
+
+  <category name="food" defaultLocation="fridge" room="kitchen">
+    <object name="apple"       difficulty="easy"      fruit="true" />
+    <object name="pepper"       difficulty="easy"      fruit="true" />
+    <object name="kiwi"        difficulty="moderate"  fruit="true" />
+    <object name="pear"        difficulty="moderate"  fruit="true" />
+    <object name="lemon"       difficulty="moderate"  fruit="true" />
+    <object name="mushrooms"      difficulty="moderate"  />
+  </category>
+
+</categories>
+
+
