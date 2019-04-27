@@ -1,7 +1,7 @@
 # sara_appartment
 Here you will find Sara's appartment related files.
 
-# Objects
+# Rooms/containers/waypoint
 * bathroom 
   * counter [waypoint]
 * living room
@@ -19,7 +19,7 @@ Here you will find Sara's appartment related files.
 * corridor
   * exit [waypoint]
     
-
+# Objects
 * Fruits/Vegetables
   * Carrots
   * Apple
