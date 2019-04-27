@@ -2,38 +2,34 @@
 Here you will find Sara's appartment related files.
 
 # Objects
-* bathroom
-  * counter
-    * shampoo
-    * tooth paster
-    * sponge
-    * soap
+* bathroom 
+  * counter [waypoint]
 * living room
-  * couch
-  * living table
-    * coffee
-    * mcdonald cup
+  * couch [waypoint]
+  * living table [container]
+  * cabinet [container]
+* office
+  * desk [container]
+  * printer [waypoint]
+  * trash can [waypoint]
+  * fridge [waypoint]
 * kitchen
-  * chair
-  * desk
-    * mushrooms 
-    * cookies
-    * pringles
-    * water
-  * table
-    * juice
-    * mountain dew
-    * coke
-    * pear
-    * milk
-  * fridge
-    * apple
-    * pepper
-    * kiwi
-    * pear
-    * lemon
-    * kinder surprise
+  * kitchen table [container]
+  * sink [waypoint]
+* corridor
+  * exit [waypoint]
     
+
+* Fruits/Vegetables
+  * Carrots
+  * Apple
+  * Orange
+  * Banana
+  * Lemon
+  * Peach
+  * Eggplant
+  * Mango
+
 
 # Map
 ![Appartment Map](appartment_map.png "Appartment Map")
