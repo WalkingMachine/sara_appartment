@@ -29,7 +29,15 @@ Here you will find Sara's appartment related files.
   * Peach
   * Eggplant
   * Mango
-
+* Food
+  * Pringles
+  * Ritz
+* Drink
+  * Coke
+  * Tea
+* Miscellaneous
+  * Plastic duck
+  * Cleaner
 
 # Map
 ![Appartment Map](appartment_map.png "Appartment Map")
