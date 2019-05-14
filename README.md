@@ -21,24 +21,18 @@ Here you will find Sara's appartment related files.
     
 # Objects
 * Fruits/Vegetables
-  * Carrots
-  * Apple
-  * Orange
   * Banana
-  * Lemon
+  * Apple
   * Peach
-  * Eggplant
-  * Mango
-* Food
-  * Pringles
-  * Ritz
-  * Popcorn
-* Drink
-  * Coke
-  * Tea
-* Miscellaneous
-  * Plastic duck
-  * Cleaner
+  * Grape
+* Tableware
+  * Bowl
+  * Plate
+  * Kitchen knife
+  * Fork
+  * Spoon
+* Miscelaneous
+  * Handbag
 
 # Map
 ## Carry my luggage [Party host]
